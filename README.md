@@ -12,4 +12,3 @@ My machine learning library.
 9. outlier removal functions
 10. feature augmentation (one hot encoding, binning features)
 11. cleaning/fixing data (missing value filling, etc)
-12. many evaluation functions 
